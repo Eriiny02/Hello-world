@@ -1,0 +1,6 @@
+public class Eriny{
+
+public void print{
+System.out.println("My name is Eriny");
+}
+}
